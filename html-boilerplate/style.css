@@ -23,3 +23,21 @@ div#projects_section
     padding-left: 10px;
     border: 2px solid black;
 }
+
+.menu
+{
+    display: flex;
+    padding: 10px;
+    text-align: center;
+    font-size: 2em;
+    color: blue;
+    border: 2px solid black;
+}
+
+.menu >div{
+
+    display: flex;
+    padding: 10px;
+    text-align: center;
+    border:2px solid black;
+}
