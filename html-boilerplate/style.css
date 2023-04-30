@@ -1,0 +1,25 @@
+.projects_img
+{
+height: 400px;
+width: 700px;
+}
+
+.languages,
+.library
+{
+ color:blue
+}
+
+div#skills_section
+{
+    border: 2px solid black;
+    padding-left: 10px;
+    margin-bottom: 2px;
+}
+
+div#projects_section
+{
+    margin:2px;
+    padding-left: 10px;
+    border: 2px solid black;
+}
